@@ -1,0 +1,25 @@
+/* * {
+    font-family: cursive;
+} */
+
+body {
+    font-size: 24px;
+}
+
+#first>p {
+    color: green;
+}
+
+#first, #second {
+    color: red;
+}
+
+.purple {
+    color: purple;
+    font-family: monospace;
+}
+
+.highlight {
+    background-color: gold;
+    font-weight: bolder;
+}
