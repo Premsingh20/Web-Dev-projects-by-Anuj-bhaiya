@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: darkslateblue;
+    height: 50px;
+}
+
+p {
+    border: 1px solid black;
+    padding: 50px;
+    width: 50%;
+    display: inline-block;
+    margin: 20px 50px 0 200px;
+}
+
+.right-container {
+    position: relative;
+    width: 300px;
+    background-color: palevioletred;
+    display: inline-block;
+    height: 600px;
+    
+}
+
+main {
+    display: inline-block;
+}
+
+.contact {
+    background-color: red;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
