@@ -13,7 +13,9 @@
     column-gap: 20px;
 
     flex-flow: wrap row;
-    justify-content: space-around
+    /* justify-content: space-around
+    ; */
+    justify-content: space-between
     ;
 }
 
